@@ -1,0 +1,4 @@
+mvn clean 
+mvn clean test
+mvn clean package 
+mvn clean package install 
